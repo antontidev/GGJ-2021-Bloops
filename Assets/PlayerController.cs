@@ -56,7 +56,7 @@ public class PlayerController : MonoBehaviour{
             transform.Translate(movement * movementSpeed * Time.deltaTime, Space.World);
         }
 
-        anim.SetFloat("Speed", movement.magnitude);
+        anim.SetFloat("Speed", movement.magnitude * movementSpeed);
         anim.SetFloat("IdleTime", currentIdle);
     }
 
