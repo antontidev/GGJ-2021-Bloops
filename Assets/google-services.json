@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372069699238",
+    "project_id": "bloopie-90d38",
+    "storage_bucket": "bloopie-90d38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372069699238:android:e6beda12e248e751122e67",
+        "android_client_info": {
+          "package_name": "com.wwnb.bloopie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372069699238-gft5mkbd9ij5u1ct903emjqatotavvbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_VSO8jPgMSji6fPL4mcQEkEeEgebL1Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372069699238-gft5mkbd9ij5u1ct903emjqatotavvbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

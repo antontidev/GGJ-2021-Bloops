@@ -6,8 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/prelude.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/CrowQuest.unity
+    guid: eb2cfe275ad654743825935a9b2b1802
+  - enabled: 1
+    path: Assets/Scenes/TortuseQuest.unity
+    guid: a9a838d9811ce4c4e969585718fbb6ee
   - enabled: 1
     path: Assets/Scenes/Shared.unity
     guid: 755bbca0be18ab647af5bb5348967643

@@ -1,14 +1,18 @@
 {
   "dependencies": {
     "com.domybest.mybox": "1.5.1",
+    "com.google.external-dependency-manager": "1.2.164",
+    "com.google.firebase.analytics": "7.0.2",
     "com.kelvip.quick-scene-switcher": "1.0.0",
     "com.unity.cinemachine": "2.6.3",
     "com.unity.collab-proxy": "1.2.16",
+    "com.unity.editorcoroutines": "1.0.0",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.3",
     "com.unity.polybrush": "1.0.2",
     "com.unity.probuilder": "4.4.0",
     "com.unity.progrids": "3.0.3-preview.6",
+    "com.unity.render-pipelines.universal": "7.5.3",
     "com.unity.test-framework": "1.1.22",
     "com.unity.textmeshpro": "2.1.3",
     "com.unity.timeline": "1.2.18",
@@ -55,6 +59,13 @@
         "com.kelvip.quick-scene-switcher",
         "com.openupm",
         "zenject"
+      ]
+    },
+    {
+      "name": "Game Package Registry by Google",
+      "url": "https://unityregistry-pa.googleapis.com",
+      "scopes": [
+        "com.google"
       ]
     }
   ]
